@@ -18,9 +18,7 @@ function HomeScreen({ navigation }) {
         <Button
           title="Cadastro"
           onPress={() => navigation.navigate('Cadastro')} />
-        <Button
-          title="Home"
-          onPress={() => navigation.navigate('Home')} />
+       
         <Button
           title="História"
           onPress={() => navigation.navigate('História')} />
