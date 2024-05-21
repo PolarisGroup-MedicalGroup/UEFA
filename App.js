@@ -6,6 +6,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 // Importe os componentes de Cabeçalho, Corpo e Rodapé
 import Corpo from './Corpo';
 import Rodapé from './Rodapé';
+import CadastroScreen from './Cadastro';
 
 function HomeScreen({ navigation }) {
   return (
